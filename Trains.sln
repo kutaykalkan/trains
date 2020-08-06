@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trains", "Trains\Trains.csproj", "{9D1BD028-B5A1-4942-B0EB-4AC781F32011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D1BD028-B5A1-4942-B0EB-4AC781F32011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1BD028-B5A1-4942-B0EB-4AC781F32011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1BD028-B5A1-4942-B0EB-4AC781F32011}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9D1BD028-B5A1-4942-B0EB-4AC781F32011}.Debug|x86.Build.0 = Debug|Any CPU
+		{9D1BD028-B5A1-4942-B0EB-4AC781F32011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1BD028-B5A1-4942-B0EB-4AC781F32011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1BD028-B5A1-4942-B0EB-4AC781F32011}.Release|x86.ActiveCfg = Release|x86
+		{9D1BD028-B5A1-4942-B0EB-4AC781F32011}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5564660C-C797-47DA-AF40-BEED0256267A}
+	EndGlobalSection
+EndGlobal

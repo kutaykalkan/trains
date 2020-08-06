@@ -1,0 +1,8 @@
+Problem: Trains 
+Language: C# 
+Assumptions: 
+1- City names can be lower case as well. 
+2- Example input has given 10 queries. However, in a real world scenario, someone may put in as many queries as they want. After all, it is them who is travelling. So you can put in as many queries as you want. Please refer to the Enum class in the solution to look at the query mappings. You will see that every query is mapped with a problem type that was defined in the example. 
+3- I used the matrix representation. My assumption was that we are likely to end up with a dense graph considering there maybe many train routes and because of this statement "the towns are named using the first few letters of the alphabet from A to D". It was made for the specific example, but if we have less number of cities, combined with my first assumption, the memory footprint would be closer to the list implementation. Also, getting distance by index is constant time which reduces the runtime complexity of the first problem type. 
+Instructions: 
+The solution should run as is with correct output. There is a file named input.txt in the solution. You can use that file to test the application.
